@@ -1,9 +1,14 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 5vw;
+    /*font-size: 5vw; */
+    font-size: 15px;
+    padding: 3rem;
 }
 p {
-    color: darkgreen;
+    padding: 1rem 2rem;
+}
+.special {
+    color: green;
 }
 a {
     color: gold;
@@ -11,8 +16,8 @@ a {
     display: inline-block;
     background-color: darkgreen;
     padding: 0.5rem 1rem;
-    margin: 1rem;
-    border-radius: 1rem;
+    margin: 0.25rem;
+    border-radius: 0.25rem;
 }
 #home {
     background-color: antiquewhite;
@@ -20,3 +25,7 @@ a {
 #about {
     background-color: turquoise;
 }
+#logo {
+    width: 12rem;
+    border-radius: 1rem;
+} 
