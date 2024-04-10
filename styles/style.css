@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+}
+p {
+    color: darkgreen;
+}
+a {
+    color: gold;
+    text-decoration: none;
+    display: inline-block;
+    background-color: darkgreen;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+#home {
+    background-color: antiquewhite;
+}
+#about {
+    background-color: turquoise;
+}
